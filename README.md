@@ -29,3 +29,7 @@ I am an indie backend and android developer currently working mostly using javas
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <br/>
+
+#
+
+Please check out my Blogging-based networking site for Tech. Univeristy students: https://simpliblog.site
